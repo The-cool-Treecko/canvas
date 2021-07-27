@@ -1,0 +1,21 @@
+h1
+{
+	color: red; 
+	font-size: 40px;
+	border-radius: 45px;
+	border-style:outset;
+	border-width: 10px;
+	background-color: gainsboro;
+}
+.body_background {
+	background-image: url(bg1.jpg);
+	background-position: center;
+	background-size: cover;
+}
+
+#myCanvas{
+	border-radius: 45px;
+	border-style:outset;
+	border-width: 10px;
+	background-color: gainsboro;
+}
